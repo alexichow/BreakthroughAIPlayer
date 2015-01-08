@@ -1,0 +1,235 @@
+BT A-B F1 7 (W) played 1 0 2 0
+BBBBBBB
+BBBBBBB
+.......
+.......
+W......
+.WWWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+BT A-B F1 7 (B) played 5 0 4 0
+BBBBBBB
+.BBBBBB
+B......
+.......
+W......
+.WWWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+BT A-B F1 7 (W) played 1 1 2 1
+BBBBBBB
+.BBBBBB
+B......
+.......
+WW.....
+..WWWWW
+WWWWWWW
+[AWAY 3 GAME_ON]
+BT A-B F1 7 (B) played 5 1 4 2
+BBBBBBB
+..BBBBB
+B.B....
+.......
+WW.....
+..WWWWW
+WWWWWWW
+[HOME 4 GAME_ON]
+BT A-B F1 7 (W) played 0 0 1 1
+BBBBBBB
+..BBBBB
+B.B....
+.......
+WW.....
+.WWWWWW
+.WWWWWW
+[AWAY 5 GAME_ON]
+BT A-B F1 7 (B) played 5 2 4 1
+BBBBBBB
+...BBBB
+BBB....
+.......
+WW.....
+.WWWWWW
+.WWWWWW
+[HOME 6 GAME_ON]
+BT A-B F1 7 (W) played 0 1 1 0
+BBBBBBB
+...BBBB
+BBB....
+.......
+WW.....
+WWWWWWW
+..WWWWW
+[AWAY 7 GAME_ON]
+BT A-B F1 7 (B) played 5 3 4 3
+BBBBBBB
+....BBB
+BBBB...
+.......
+WW.....
+WWWWWWW
+..WWWWW
+[HOME 8 GAME_ON]
+BT A-B F1 7 (W) played 1 1 2 2
+BBBBBBB
+....BBB
+BBBB...
+.......
+WWW....
+W.WWWWW
+..WWWWW
+[AWAY 9 GAME_ON]
+BT A-B F1 7 (B) played 5 4 4 4
+BBBBBBB
+.....BB
+BBBBB..
+.......
+WWW....
+W.WWWWW
+..WWWWW
+[HOME 10 GAME_ON]
+BT A-B F1 7 (W) played 0 2 1 1
+BBBBBBB
+.....BB
+BBBBB..
+.......
+WWW....
+WWWWWWW
+...WWWW
+[AWAY 11 GAME_ON]
+BT A-B F1 7 (B) played 5 5 4 5
+BBBBBBB
+......B
+BBBBBB.
+.......
+WWW....
+WWWWWWW
+...WWWW
+[HOME 12 GAME_ON]
+BT A-B F1 7 (W) played 1 2 2 3
+BBBBBBB
+......B
+BBBBBB.
+.......
+WWWW...
+WW.WWWW
+...WWWW
+[AWAY 13 GAME_ON]
+BT A-B F1 7 (B) played 4 4 3 4
+BBBBBBB
+......B
+BBBB.B.
+....B..
+WWWW...
+WW.WWWW
+...WWWW
+[HOME 14 GAME_ON]
+BT A-B F1 7 (W) played 1 5 2 5
+BBBBBBB
+......B
+BBBB.B.
+....B..
+WWWW.W.
+WW.WW.W
+...WWWW
+[AWAY 15 GAME_ON]
+BT A-B F1 7 (B) played 3 4 2 3
+BBBBBBB
+......B
+BBBB.B.
+.......
+WWWB.W.
+WW.WW.W
+...WWWW
+[HOME 16 GAME_ON]
+BT A-B F1 7 (W) played 1 4 2 3
+BBBBBBB
+......B
+BBBB.B.
+.......
+WWWW.W.
+WW.W..W
+...WWWW
+[AWAY 17 GAME_ON]
+BT A-B F1 7 (B) played 6 0 5 0
+.BBBBBB
+B.....B
+BBBB.B.
+.......
+WWWW.W.
+WW.W..W
+...WWWW
+[HOME 18 GAME_ON]
+BT A-B F1 7 (W) played 0 3 1 2
+.BBBBBB
+B.....B
+BBBB.B.
+.......
+WWWW.W.
+WWWW..W
+....WWW
+[AWAY 19 GAME_ON]
+BT A-B F1 7 (B) played 6 1 5 1
+..BBBBB
+BB....B
+BBBB.B.
+.......
+WWWW.W.
+WWWW..W
+....WWW
+[HOME 20 GAME_ON]
+BT A-B F1 7 (W) played 0 4 1 4
+..BBBBB
+BB....B
+BBBB.B.
+.......
+WWWW.W.
+WWWWW.W
+.....WW
+[AWAY 21 GAME_ON]
+BT A-B F1 7 (B) played 6 2 5 2
+...BBBB
+BBB...B
+BBBB.B.
+.......
+WWWW.W.
+WWWWW.W
+.....WW
+[HOME 22 GAME_ON]
+BT A-B F1 7 (W) played 0 5 1 5
+...BBBB
+BBB...B
+BBBB.B.
+.......
+WWWW.W.
+WWWWWWW
+......W
+[AWAY 23 GAME_ON]
+BT A-B F1 7 (B) played 6 3 5 3
+....BBB
+BBBB..B
+BBBB.B.
+.......
+WWWW.W.
+WWWWWWW
+......W
+[HOME 24 GAME_ON]
+BT A-B F1 7 (W) played 1 5 2 4
+....BBB
+BBBB..B
+BBBB.B.
+.......
+WWWWWW.
+WWWWW.W
+......W
+[AWAY 25 GAME_ON]
+BT A-B F1 7 (B) played 5 3 4 4
+....BBB
+BBB...B
+BBBBBB.
+.......
+WWWWWW.
+WWWWW.W
+......W
+[HOME 26 GAME_ON]
+BT A-B F1 7 won. BT A-B F1 7 DQd

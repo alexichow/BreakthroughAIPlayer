@@ -1,0 +1,479 @@
+Beast Mode 7 (W) played 1 0 2 0
+BBBBBBB
+BBBBBBB
+.......
+.......
+W......
+.WWWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+Greedy BT+ (B) played 5 6 4 6
+BBBBBBB
+BBBBBB.
+......B
+.......
+W......
+.WWWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+Beast Mode 7 (W) played 0 0 1 0
+BBBBBBB
+BBBBBB.
+......B
+.......
+W......
+WWWWWWW
+.WWWWWW
+[AWAY 3 GAME_ON]
+Greedy BT+ (B) played 5 1 4 1
+BBBBBBB
+B.BBBB.
+.B....B
+.......
+W......
+WWWWWWW
+.WWWWWW
+[HOME 4 GAME_ON]
+Beast Mode 7 (W) played 1 0 2 1
+BBBBBBB
+B.BBBB.
+.B....B
+.......
+WW.....
+.WWWWWW
+.WWWWWW
+[AWAY 5 GAME_ON]
+Greedy BT+ (B) played 6 1 5 1
+B.BBBBB
+BBBBBB.
+.B....B
+.......
+WW.....
+.WWWWWW
+.WWWWWW
+[HOME 6 GAME_ON]
+Beast Mode 7 (W) played 0 1 1 0
+B.BBBBB
+BBBBBB.
+.B....B
+.......
+WW.....
+WWWWWWW
+..WWWWW
+[AWAY 7 GAME_ON]
+Greedy BT+ (B) played 6 6 5 6
+B.BBBB.
+BBBBBBB
+.B....B
+.......
+WW.....
+WWWWWWW
+..WWWWW
+[HOME 8 GAME_ON]
+Beast Mode 7 (W) played 1 1 2 2
+B.BBBB.
+BBBBBBB
+.B....B
+.......
+WWW....
+W.WWWWW
+..WWWWW
+[AWAY 9 GAME_ON]
+Greedy BT+ (B) played 5 4 4 4
+B.BBBB.
+BBBB.BB
+.B..B.B
+.......
+WWW....
+W.WWWWW
+..WWWWW
+[HOME 10 GAME_ON]
+Beast Mode 7 (W) played 0 2 1 1
+B.BBBB.
+BBBB.BB
+.B..B.B
+.......
+WWW....
+WWWWWWW
+...WWWW
+[AWAY 11 GAME_ON]
+Greedy BT+ (B) played 6 4 5 4
+B.BB.B.
+BBBBBBB
+.B..B.B
+.......
+WWW....
+WWWWWWW
+...WWWW
+[HOME 12 GAME_ON]
+Beast Mode 7 (W) played 1 2 2 3
+B.BB.B.
+BBBBBBB
+.B..B.B
+.......
+WWWW...
+WW.WWWW
+...WWWW
+[AWAY 13 GAME_ON]
+Greedy BT+ (B) played 4 6 3 6
+B.BB.B.
+BBBBBBB
+.B..B..
+......B
+WWWW...
+WW.WWWW
+...WWWW
+[HOME 14 GAME_ON]
+Beast Mode 7 (W) played 0 3 1 2
+B.BB.B.
+BBBBBBB
+.B..B..
+......B
+WWWW...
+WWWWWWW
+....WWW
+[AWAY 15 GAME_ON]
+Greedy BT+ (B) played 5 5 4 5
+B.BB.B.
+BBBBB.B
+.B..BB.
+......B
+WWWW...
+WWWWWWW
+....WWW
+[HOME 16 GAME_ON]
+Beast Mode 7 (W) played 1 3 2 4
+B.BB.B.
+BBBBB.B
+.B..BB.
+......B
+WWWWW..
+WWW.WWW
+....WWW
+[AWAY 17 GAME_ON]
+Greedy BT+ (B) played 4 4 3 4
+B.BB.B.
+BBBBB.B
+.B...B.
+....B.B
+WWWWW..
+WWW.WWW
+....WWW
+[HOME 18 GAME_ON]
+Beast Mode 7 (W) played 1 5 2 5
+B.BB.B.
+BBBBB.B
+.B...B.
+....B.B
+WWWWWW.
+WWW.W.W
+....WWW
+[AWAY 19 GAME_ON]
+Greedy BT+ (B) played 3 4 2 3
+B.BB.B.
+BBBBB.B
+.B...B.
+......B
+WWWBWW.
+WWW.W.W
+....WWW
+[HOME 20 GAME_ON]
+Beast Mode 7 (W) played 1 2 2 3
+B.BB.B.
+BBBBB.B
+.B...B.
+......B
+WWWWWW.
+WW..W.W
+....WWW
+[AWAY 21 GAME_ON]
+Greedy BT+ (B) played 3 6 2 5
+B.BB.B.
+BBBBB.B
+.B...B.
+.......
+WWWWWB.
+WW..W.W
+....WWW
+[HOME 22 GAME_ON]
+Beast Mode 7 (W) played 1 4 2 5
+B.BB.B.
+BBBBB.B
+.B...B.
+.......
+WWWWWW.
+WW....W
+....WWW
+[AWAY 23 GAME_ON]
+Greedy BT+ (B) played 5 2 4 2
+B.BB.B.
+BB.BB.B
+.BB..B.
+.......
+WWWWWW.
+WW....W
+....WWW
+[HOME 24 GAME_ON]
+Beast Mode 7 (W) played 0 4 1 3
+B.BB.B.
+BB.BB.B
+.BB..B.
+.......
+WWWWWW.
+WW.W..W
+.....WW
+[AWAY 25 GAME_ON]
+Greedy BT+ (B) played 5 4 4 4
+B.BB.B.
+BB.B..B
+.BB.BB.
+.......
+WWWWWW.
+WW.W..W
+.....WW
+[HOME 26 GAME_ON]
+Beast Mode 7 (W) played 0 5 1 4
+B.BB.B.
+BB.B..B
+.BB.BB.
+.......
+WWWWWW.
+WW.WW.W
+......W
+[AWAY 27 GAME_ON]
+Greedy BT+ (B) played 5 6 4 6
+B.BB.B.
+BB.B...
+.BB.BBB
+.......
+WWWWWW.
+WW.WW.W
+......W
+[HOME 28 GAME_ON]
+Beast Mode 7 (W) played 0 6 1 5
+B.BB.B.
+BB.B...
+.BB.BBB
+.......
+WWWWWW.
+WW.WWWW
+.......
+[AWAY 29 GAME_ON]
+Greedy BT+ (B) played 6 5 5 5
+B.BB...
+BB.B.B.
+.BB.BBB
+.......
+WWWWWW.
+WW.WWWW
+.......
+[HOME 30 GAME_ON]
+Beast Mode 7 (W) played 1 5 2 6
+B.BB...
+BB.B.B.
+.BB.BBB
+.......
+WWWWWWW
+WW.WW.W
+.......
+[AWAY 31 GAME_ON]
+Greedy BT+ (B) played 4 1 3 1
+B.BB...
+BB.B.B.
+..B.BBB
+.B.....
+WWWWWWW
+WW.WW.W
+.......
+[HOME 32 GAME_ON]
+Beast Mode 7 (W) played 2 0 3 1
+B.BB...
+BB.B.B.
+..B.BBB
+.W.....
+.WWWWWW
+WW.WW.W
+.......
+[AWAY 33 GAME_ON]
+Greedy BT+ (B) played 4 2 3 1
+B.BB...
+BB.B.B.
+....BBB
+.B.....
+.WWWWWW
+WW.WW.W
+.......
+[HOME 34 GAME_ON]
+Beast Mode 7 (W) played 2 2 3 1
+B.BB...
+BB.B.B.
+....BBB
+.W.....
+.W.WWWW
+WW.WW.W
+.......
+[AWAY 35 GAME_ON]
+Greedy BT+ (B) played 5 0 4 0
+B.BB...
+.B.B.B.
+B...BBB
+.W.....
+.W.WWWW
+WW.WW.W
+.......
+[HOME 36 GAME_ON]
+Beast Mode 7 (W) played 2 3 3 4
+B.BB...
+.B.B.B.
+B...BBB
+.W..W..
+.W..WWW
+WW.WW.W
+.......
+[AWAY 37 GAME_ON]
+Greedy BT+ (B) played 4 5 3 4
+B.BB...
+.B.B.B.
+B...B.B
+.W..B..
+.W..WWW
+WW.WW.W
+.......
+[HOME 38 GAME_ON]
+Beast Mode 7 (W) played 2 5 3 4
+B.BB...
+.B.B.B.
+B...B.B
+.W..W..
+.W..W.W
+WW.WW.W
+.......
+[AWAY 39 GAME_ON]
+Greedy BT+ (B) played 4 0 3 1
+B.BB...
+.B.B.B.
+....B.B
+.B..W..
+.W..W.W
+WW.WW.W
+.......
+[HOME 40 GAME_ON]
+Beast Mode 7 (W) played 3 4 4 5
+B.BB...
+.B.B.B.
+....BWB
+.B.....
+.W..W.W
+WW.WW.W
+.......
+[AWAY 41 GAME_ON]
+Greedy BT+ (B) played 5 1 4 1
+B.BB...
+...B.B.
+.B..BWB
+.B.....
+.W..W.W
+WW.WW.W
+.......
+[HOME 42 GAME_ON]
+Beast Mode 7 (W) played 1 0 2 0
+B.BB...
+...B.B.
+.B..BWB
+.B.....
+WW..W.W
+.W.WW.W
+.......
+[AWAY 43 GAME_ON]
+Greedy BT+ (B) played 3 1 2 0
+B.BB...
+...B.B.
+.B..BWB
+.......
+BW..W.W
+.W.WW.W
+.......
+[HOME 44 GAME_ON]
+Beast Mode 7 (W) played 1 1 2 0
+B.BB...
+...B.B.
+.B..BWB
+.......
+WW..W.W
+...WW.W
+.......
+[AWAY 45 GAME_ON]
+Greedy BT+ (B) played 5 3 4 3
+B.BB...
+.....B.
+.B.BBWB
+.......
+WW..W.W
+...WW.W
+.......
+[HOME 46 GAME_ON]
+Beast Mode 7 (W) played 1 3 2 2
+B.BB...
+.....B.
+.B.BBWB
+.......
+WWW.W.W
+....W.W
+.......
+[AWAY 47 GAME_ON]
+Greedy BT+ (B) played 4 1 3 1
+B.BB...
+.....B.
+...BBWB
+.B.....
+WWW.W.W
+....W.W
+.......
+[HOME 48 GAME_ON]
+Beast Mode 7 (W) played 1 4 2 3
+B.BB...
+.....B.
+...BBWB
+.B.....
+WWWWW.W
+......W
+.......
+[AWAY 49 GAME_ON]
+Greedy BT+ (B) played 3 1 2 0
+B.BB...
+.....B.
+...BBWB
+.......
+BWWWW.W
+......W
+.......
+[HOME 50 GAME_ON]
+Beast Mode 7 (W) played 4 5 5 6
+B.BB...
+.....BW
+...BB.B
+.......
+BWWWW.W
+......W
+.......
+[AWAY 51 GAME_ON]
+Greedy BT+ (B) played 5 5 4 5
+B.BB...
+......W
+...BBBB
+.......
+BWWWW.W
+......W
+.......
+[HOME 52 GAME_ON]
+Beast Mode 7 (W) played 5 6 6 5
+B.BB.W.
+.......
+...BBBB
+.......
+BWWWW.W
+......W
+.......
+[AWAY 53 HOME_WIN]
+Beast Mode 7 (W) (390.179000 seconds remaining) won.
+Greedy BT+ had 419.983000 seconds remaining.

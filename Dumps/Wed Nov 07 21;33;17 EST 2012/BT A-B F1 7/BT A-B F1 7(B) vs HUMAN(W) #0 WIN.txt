@@ -1,0 +1,326 @@
+HUMAN (W) played 1 1 2 1
+BBBBBBB
+BBBBBBB
+.......
+.......
+.W.....
+W.WWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+BT A-B F1 7 (B) played 5 0 4 0
+BBBBBBB
+.BBBBBB
+B......
+.......
+.W.....
+W.WWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+HUMAN (W) played 2 1 3 2
+BBBBBBB
+.BBBBBB
+B......
+..W....
+.......
+W.WWWWW
+WWWWWWW
+[AWAY 3 GAME_ON]
+BT A-B F1 7 (B) played 5 1 4 1
+BBBBBBB
+..BBBBB
+BB.....
+..W....
+.......
+W.WWWWW
+WWWWWWW
+[HOME 4 GAME_ON]
+HUMAN (W) played 3 2 4 1
+BBBBBBB
+..BBBBB
+BW.....
+.......
+.......
+W.WWWWW
+WWWWWWW
+[AWAY 5 GAME_ON]
+BT A-B F1 7 (B) played 5 2 4 1
+BBBBBBB
+...BBBB
+BB.....
+.......
+.......
+W.WWWWW
+WWWWWWW
+[HOME 6 GAME_ON]
+HUMAN (W) played 1 2 2 1
+BBBBBBB
+...BBBB
+BB.....
+.......
+.W.....
+W..WWWW
+WWWWWWW
+[AWAY 7 GAME_ON]
+BT A-B F1 7 (B) played 4 0 3 0
+BBBBBBB
+...BBBB
+.B.....
+B......
+.W.....
+W..WWWW
+WWWWWWW
+[HOME 8 GAME_ON]
+HUMAN (W) played 2 1 3 1
+BBBBBBB
+...BBBB
+.B.....
+BW.....
+.......
+W..WWWW
+WWWWWWW
+[AWAY 9 GAME_ON]
+BT A-B F1 7 (B) played 6 0 5 1
+.BBBBBB
+.B.BBBB
+.B.....
+BW.....
+.......
+W..WWWW
+WWWWWWW
+[HOME 10 GAME_ON]
+HUMAN (W) played 1 3 2 2
+.BBBBBB
+.B.BBBB
+.B.....
+BW.....
+..W....
+W...WWW
+WWWWWWW
+[AWAY 11 GAME_ON]
+BT A-B F1 7 (B) played 4 1 3 2
+.BBBBBB
+.B.BBBB
+.......
+BWB....
+..W....
+W...WWW
+WWWWWWW
+[HOME 12 GAME_ON]
+HUMAN (W) played 0 2 1 2
+.BBBBBB
+.B.BBBB
+.......
+BWB....
+..W....
+W.W.WWW
+WW.WWWW
+[AWAY 13 GAME_ON]
+BT A-B F1 7 (B) played 5 3 4 2
+.BBBBBB
+.B..BBB
+..B....
+BWB....
+..W....
+W.W.WWW
+WW.WWWW
+[HOME 14 GAME_ON]
+HUMAN (W) played 1 5 2 4
+.BBBBBB
+.B..BBB
+..B....
+BWB....
+..W.W..
+W.W.W.W
+WW.WWWW
+[AWAY 15 GAME_ON]
+BT A-B F1 7 (B) played 5 4 4 3
+.BBBBBB
+.B...BB
+..BB...
+BWB....
+..W.W..
+W.W.W.W
+WW.WWWW
+[HOME 16 GAME_ON]
+HUMAN (W) played 1 6 2 5
+.BBBBBB
+.B...BB
+..BB...
+BWB....
+..W.WW.
+W.W.W..
+WW.WWWW
+[AWAY 17 GAME_ON]
+BT A-B F1 7 (B) played 5 5 4 4
+.BBBBBB
+.B....B
+..BBB..
+BWB....
+..W.WW.
+W.W.W..
+WW.WWWW
+[HOME 18 GAME_ON]
+HUMAN (W) played 0 6 1 6
+.BBBBBB
+.B....B
+..BBB..
+BWB....
+..W.WW.
+W.W.W.W
+WW.WWW.
+[AWAY 19 GAME_ON]
+BT A-B F1 7 (B) played 4 4 3 4
+.BBBBBB
+.B....B
+..BB...
+BWB.B..
+..W.WW.
+W.W.W.W
+WW.WWW.
+[HOME 20 GAME_ON]
+HUMAN (W) played 2 5 3 4
+.BBBBBB
+.B....B
+..BB...
+BWB.W..
+..W.W..
+W.W.W.W
+WW.WWW.
+[AWAY 21 GAME_ON]
+BT A-B F1 7 (B) played 4 3 3 4
+.BBBBBB
+.B....B
+..B....
+BWB.B..
+..W.W..
+W.W.W.W
+WW.WWW.
+[HOME 22 GAME_ON]
+HUMAN (W) played 1 6 2 5
+.BBBBBB
+.B....B
+..B....
+BWB.B..
+..W.WW.
+W.W.W..
+WW.WWW.
+[AWAY 23 GAME_ON]
+BT A-B F1 7 (B) played 5 6 4 5
+.BBBBBB
+.B.....
+..B..B.
+BWB.B..
+..W.WW.
+W.W.W..
+WW.WWW.
+[HOME 24 GAME_ON]
+HUMAN (W) played 2 5 3 4
+.BBBBBB
+.B.....
+..B..B.
+BWB.W..
+..W.W..
+W.W.W..
+WW.WWW.
+[AWAY 25 GAME_ON]
+BT A-B F1 7 (B) played 4 5 3 4
+.BBBBBB
+.B.....
+..B....
+BWB.B..
+..W.W..
+W.W.W..
+WW.WWW.
+[HOME 26 GAME_ON]
+HUMAN (W) played 0 5 1 6
+.BBBBBB
+.B.....
+..B....
+BWB.B..
+..W.W..
+W.W.W.W
+WW.WW..
+[AWAY 27 GAME_ON]
+BT A-B F1 7 (B) played 6 1 5 0
+..BBBBB
+BB.....
+..B....
+BWB.B..
+..W.W..
+W.W.W.W
+WW.WW..
+[HOME 28 GAME_ON]
+HUMAN (W) played 0 4 1 5
+..BBBBB
+BB.....
+..B....
+BWB.B..
+..W.W..
+W.W.WWW
+WW.W...
+[AWAY 29 GAME_ON]
+BT A-B F1 7 (B) played 4 2 3 1
+..BBBBB
+BB.....
+.......
+BBB.B..
+..W.W..
+W.W.WWW
+WW.W...
+[HOME 30 GAME_ON]
+HUMAN (W) played 2 2 3 1
+..BBBBB
+BB.....
+.......
+BWB.B..
+....W..
+W.W.WWW
+WW.W...
+[AWAY 31 GAME_ON]
+BT A-B F1 7 (B) played 3 2 2 2
+..BBBBB
+BB.....
+.......
+BW..B..
+..B.W..
+W.W.WWW
+WW.W...
+[HOME 32 GAME_ON]
+HUMAN (W) played 1 4 2 3
+..BBBBB
+BB.....
+.......
+BW..B..
+..BWW..
+W.W..WW
+WW.W...
+[AWAY 33 GAME_ON]
+BT A-B F1 7 (B) played 2 2 1 3
+..BBBBB
+BB.....
+.......
+BW..B..
+...WW..
+W.WB.WW
+WW.W...
+[HOME 34 GAME_ON]
+HUMAN (W) played 1 5 2 6
+..BBBBB
+BB.....
+.......
+BW..B..
+...WW.W
+W.WB..W
+WW.W...
+[AWAY 35 GAME_ON]
+BT A-B F1 7 (B) played 1 3 0 2
+..BBBBB
+BB.....
+.......
+BW..B..
+...WW.W
+W.W...W
+WWBW...
+[HOME 36 AWAY_WIN]
+BT A-B F1 7 (B) (353.919000 seconds remaining) won.
+HUMAN had 240.862000 seconds remaining.

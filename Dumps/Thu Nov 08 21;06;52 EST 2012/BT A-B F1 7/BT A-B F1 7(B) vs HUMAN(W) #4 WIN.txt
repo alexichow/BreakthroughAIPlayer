@@ -1,0 +1,290 @@
+HUMAN (W) played 1 0 2 1
+BBBBBBB
+BBBBBBB
+.......
+.......
+.W.....
+.WWWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+BT A-B F1 7 (B) played 5 0 4 0
+BBBBBBB
+.BBBBBB
+B......
+.......
+.W.....
+.WWWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+HUMAN (W) played 2 1 3 2
+BBBBBBB
+.BBBBBB
+B......
+..W....
+.......
+.WWWWWW
+WWWWWWW
+[AWAY 3 GAME_ON]
+BT A-B F1 7 (B) played 5 1 4 1
+BBBBBBB
+..BBBBB
+BB.....
+..W....
+.......
+.WWWWWW
+WWWWWWW
+[HOME 4 GAME_ON]
+HUMAN (W) played 3 2 4 1
+BBBBBBB
+..BBBBB
+BW.....
+.......
+.......
+.WWWWWW
+WWWWWWW
+[AWAY 5 GAME_ON]
+BT A-B F1 7 (B) played 5 2 4 1
+BBBBBBB
+...BBBB
+BB.....
+.......
+.......
+.WWWWWW
+WWWWWWW
+[HOME 6 GAME_ON]
+HUMAN (W) played 1 2 2 3
+BBBBBBB
+...BBBB
+BB.....
+.......
+...W...
+.W.WWWW
+WWWWWWW
+[AWAY 7 GAME_ON]
+BT A-B F1 7 (B) played 5 3 4 2
+BBBBBBB
+....BBB
+BBB....
+.......
+...W...
+.W.WWWW
+WWWWWWW
+[HOME 8 GAME_ON]
+HUMAN (W) played 2 3 3 4
+BBBBBBB
+....BBB
+BBB....
+....W..
+.......
+.W.WWWW
+WWWWWWW
+[AWAY 9 GAME_ON]
+BT A-B F1 7 (B) played 4 0 3 0
+BBBBBBB
+....BBB
+.BB....
+B...W..
+.......
+.W.WWWW
+WWWWWWW
+[HOME 10 GAME_ON]
+HUMAN (W) played 1 1 2 2
+BBBBBBB
+....BBB
+.BB....
+B...W..
+..W....
+...WWWW
+WWWWWWW
+[AWAY 11 GAME_ON]
+BT A-B F1 7 (B) played 4 1 3 1
+BBBBBBB
+....BBB
+..B....
+BB..W..
+..W....
+...WWWW
+WWWWWWW
+[HOME 12 GAME_ON]
+HUMAN (W) played 2 2 3 3
+BBBBBBB
+....BBB
+..B....
+BB.WW..
+.......
+...WWWW
+WWWWWWW
+[AWAY 13 GAME_ON]
+BT A-B F1 7 (B) played 4 2 3 3
+BBBBBBB
+....BBB
+.......
+BB.BW..
+.......
+...WWWW
+WWWWWWW
+[HOME 14 GAME_ON]
+HUMAN (W) played 1 6 2 6
+BBBBBBB
+....BBB
+.......
+BB.BW..
+......W
+...WWW.
+WWWWWWW
+[AWAY 15 GAME_ON]
+BT A-B F1 7 (B) played 5 4 4 5
+BBBBBBB
+.....BB
+.....B.
+BB.BW..
+......W
+...WWW.
+WWWWWWW
+[HOME 16 GAME_ON]
+HUMAN (W) played 2 6 3 5
+BBBBBBB
+.....BB
+.....B.
+BB.BWW.
+.......
+...WWW.
+WWWWWWW
+[AWAY 17 GAME_ON]
+BT A-B F1 7 (B) played 4 5 3 4
+BBBBBBB
+.....BB
+.......
+BB.BBW.
+.......
+...WWW.
+WWWWWWW
+[HOME 18 GAME_ON]
+HUMAN (W) played 3 5 4 4
+BBBBBBB
+.....BB
+....W..
+BB.BB..
+.......
+...WWW.
+WWWWWWW
+[AWAY 19 GAME_ON]
+BT A-B F1 7 (B) played 5 5 4 4
+BBBBBBB
+......B
+....B..
+BB.BB..
+.......
+...WWW.
+WWWWWWW
+[HOME 20 GAME_ON]
+HUMAN (W) played 1 4 2 4
+BBBBBBB
+......B
+....B..
+BB.BB..
+....W..
+...W.W.
+WWWWWWW
+[AWAY 21 GAME_ON]
+BT A-B F1 7 (B) played 5 6 4 5
+BBBBBBB
+.......
+....BB.
+BB.BB..
+....W..
+...W.W.
+WWWWWWW
+[HOME 22 GAME_ON]
+HUMAN (W) played 2 4 3 3
+BBBBBBB
+.......
+....BB.
+BB.WB..
+.......
+...W.W.
+WWWWWWW
+[AWAY 23 GAME_ON]
+BT A-B F1 7 (B) played 4 4 3 3
+BBBBBBB
+.......
+.....B.
+BB.BB..
+.......
+...W.W.
+WWWWWWW
+[HOME 24 GAME_ON]
+HUMAN (W) played 1 3 2 4
+BBBBBBB
+.......
+.....B.
+BB.BB..
+....W..
+.....W.
+WWWWWWW
+[AWAY 25 GAME_ON]
+BT A-B F1 7 (B) played 3 3 2 2
+BBBBBBB
+.......
+.....B.
+BB..B..
+..B.W..
+.....W.
+WWWWWWW
+[HOME 26 GAME_ON]
+HUMAN (W) played 2 4 3 3
+BBBBBBB
+.......
+.....B.
+BB.WB..
+..B....
+.....W.
+WWWWWWW
+[AWAY 27 GAME_ON]
+BT A-B F1 7 (B) played 3 0 2 0
+BBBBBBB
+.......
+.....B.
+.B.WB..
+B.B....
+.....W.
+WWWWWWW
+[HOME 28 GAME_ON]
+HUMAN (W) played 0 1 1 2
+BBBBBBB
+.......
+.....B.
+.B.WB..
+B.B....
+..W..W.
+W.WWWWW
+[AWAY 29 GAME_ON]
+BT A-B F1 7 (B) played 2 0 1 0
+BBBBBBB
+.......
+.....B.
+.B.WB..
+..B....
+B.W..W.
+W.WWWWW
+[HOME 30 GAME_ON]
+HUMAN (W) played 0 0 1 1
+BBBBBBB
+.......
+.....B.
+.B.WB..
+..B....
+BWW..W.
+..WWWWW
+[AWAY 31 GAME_ON]
+BT A-B F1 7 (B) played 1 0 0 1
+BBBBBBB
+.......
+.....B.
+.B.WB..
+..B....
+.WW..W.
+.BWWWWW
+[HOME 32 AWAY_WIN]
+BT A-B F1 7 (B) (337.217000 seconds remaining) won.
+HUMAN had 251.353000 seconds remaining.
