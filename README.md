@@ -12,12 +12,12 @@ This is an [Eclipse](https://eclipse.org/downloads/) Java project.
 In Eclipse:
 `File -> Import -> General -> Existing Project into Workspace -> Locate cloned project -> Finish`
 
-# Usage
+## Usage
 
 In order to play against our Alpha-Beta player:
 
-`1. Run 'Tournament.java' in the 'game' package
+1. Run 'Tournament.java' in the 'game' package
 2. Run 'AlphaBetaBreakthroughPlayer.java' in the 'breakthrough' package
-3. Run HumanBreakthroughPlayer.java' in the 'breakthrough package`
+3. Run HumanBreakthroughPlayer.java' in the 'breakthrough package
 
 A game will then start against our Alpha-Beta player.
